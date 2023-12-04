@@ -1,0 +1,49 @@
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.bottom {
+    display: flex;
+    align-items: end;
+}
+
+.even {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.width {
+    width: 100%;
+}
+
+.navBg {
+    background-color: #000324;
+}
+
+.white {
+    color: white;
+}
+
+.active{ 
+    color:white !important; 
+    border: 1px solid white;
+}
+
+.luxuryBg {
+    background-image: url(../assets/header.jpg);
+    background-size: cover;
+}
+
+.luxuryBg2 {
+    background-color: rgba(0, 3, 36, 0.8);
+}
+
+.middle {
+    display: flex;
+    align-items: center;
+}
+
+.homeMargin {
+    margin-top: 6%;
+}
