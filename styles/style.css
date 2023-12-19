@@ -54,3 +54,7 @@
         font-weight: bolder;
     }
 }
+
+.txtCenter {
+    text-align: center;
+}
