@@ -64,3 +64,8 @@
 .txtCenter {
     text-align: center;
 }
+
+.right {
+    display: flex;
+    justify-content: end;
+}
