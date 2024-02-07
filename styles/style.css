@@ -5,3 +5,15 @@
 .white {
     color: white;
 }
+
+.headerBg {
+    background-image: url(../assets/header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.headerBox {
+    width: 945px;
+    height: 232px;
+    background-color: hsla(235, 100%, 7%, 0.8);
+}
