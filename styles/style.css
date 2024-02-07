@@ -17,3 +17,12 @@
     height: 232px;
     background-color: hsla(235, 100%, 7%, 0.8);
 }
+
+.pageMargin {
+    margin-left: 350px;
+    margin-right: 350px
+}
+
+.hamsterHome {
+    width: 369px;
+}
